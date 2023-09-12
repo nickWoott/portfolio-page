@@ -71,9 +71,9 @@ const Timeline = () => {
         teaching music and maths. My love of maths, problem solving and
         technology then led me to start coding as a hobby. This casual passtime
         developed into a full-on passion and, with a career change on the
-        horizin, I completed a coding bootcamp. Today, I continue to hone my
-        programming skills daily, whilst searching for my first role in the tech
-        industry. <br /> Exciting times!{' '}
+        horizin, I completed a coding bootcamp. I know have over a years
+        commercial experience, working as a full stack engineer for{' '}
+        <a href='https://stabilit.io'>stabiliti.io</a> <br /> Exciting times!{' '}
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

@@ -20,8 +20,7 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      Through personal projects and my time at Northocoders, I now have
-      experience of working with a variety of front-end and back-end tech.{' '}
+      Here you will find a list of my personal and professional projects.{' '}
     </SectionText>
     <List>
       <ListItem>
