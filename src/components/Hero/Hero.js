@@ -15,10 +15,10 @@ const Hero = () => (
         Welcome to <br /> My Portfolio
       </SectionTitle>
       <SectionText>
-        Hi there. My name's Nick and I'm a Manchester based Software Developer.
-        I'm a recent graduate of the Northcoders bootcamp and I'm looking for my
-        first role in the industry. On this page you can learn a little about
-        me, the projects I've worked on and the technolgies I've learned so far.
+        Hi there. My name's Nick and I'm a Manchester based full-stack
+        software-engineer. Welcome to my site, where you can find out a little
+        bit more about my proficiencies and links to my personal and
+        professional projects.
       </SectionText>
     </LeftSection>
   </Section>
