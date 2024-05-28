@@ -1,12 +1,12 @@
-import React from 'react';
+import React from "react";
 
 import {
   Section,
   SectionText,
   SectionTitle,
-} from '../../styles/GlobalComponents';
-import Button from '../../styles/GlobalComponents/Button';
-import { LeftSection } from './HeroStyles';
+} from "../../styles/GlobalComponents";
+import Button from "../../styles/GlobalComponents/Button";
+import { LeftSection } from "./HeroStyles";
 
 const Hero = () => (
   <Section row nopadding>
@@ -14,12 +14,11 @@ const Hero = () => (
       <SectionTitle main center>
         Welcome to <br /> My Portfolio
       </SectionTitle>
+      <SectionText>Hi there.</SectionText>
       <SectionText>
-        Hi there. My name's Nick and I'm a Manchester based full-stack
-        software-engineer. Welcome to my site, where you can find out a little
-        bit more about my proficiencies and links to my personal and
-        professional projects.
+        I'm currently making some improvements to my site.
       </SectionText>
+      <SectionText>Check back soon.</SectionText>
     </LeftSection>
   </Section>
 );
