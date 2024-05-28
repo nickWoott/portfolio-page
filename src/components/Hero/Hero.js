@@ -12,8 +12,9 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome to <br /> My Portfolio
+        Nick Wootton{" "}
       </SectionTitle>
+      <SectionTitle>Software Developer</SectionTitle>
       <SectionText>Hi there.</SectionText>
       <SectionText>
         I'm currently making some improvements to my site.
